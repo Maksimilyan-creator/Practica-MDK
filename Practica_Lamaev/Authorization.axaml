@@ -1,0 +1,16 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" Width="400" Height="300" Background = "DarkSlateGray"
+        x:Class="Practica_Lamaev.Authorization"
+        Title="Авторизация пользователя">
+        <StackPanel Margin="10" HorizontalAlignment="Center">
+                <TextBlock Text="Логин:" Margin="5" Foreground="White"/>
+                <TextBox x:Name="Login" Margin="5"  Background="White"/>
+                <TextBlock Text="Пароль:" Margin="5" Foreground="White"  />
+                <TextBox x:Name="Password" Margin="5"  Background="White" PasswordChar="*"/>
+                <Button x:Name="LoginButton" Content="Авторизация" Margin="10" Click="LoginButton_OnClick" Foreground="White" />
+                
+        </StackPanel>
+</Window>

@@ -1,0 +1,35 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:models="clr-namespace:Practica_Lamaev.Models"
+        mc:Ignorable="d" Width="520" Height="230" Background="DarkSlateGray"
+        x:Class="Practica_Lamaev.Add_med_card"
+        Title="Добавление медицинских карт">
+    <Grid ColumnDefinitions="240,240" RowDefinitions="45,45" Margin="25" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock Grid.Column="0" Grid.Row="0" Text="Выбирете фамилию пациента:"  Foreground="White"  />
+        <ComboBox Grid.Column="1"
+                  Grid.Row="0"
+                  MinWidth="200"
+                  x:Name="PatientsComboBox">
+            <ComboBox.ItemTemplate>
+                <DataTemplate x:DataType="models:Patients">
+                    <TextBlock Text="{Binding LastName }" />
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <TextBlock Grid.Column="0" Grid.Row="1" Text="Выбирете номер записи:"  Foreground="White"  />
+        <ComboBox Grid.Column="1"
+                  Grid.Row="1"
+                  MinWidth="200"
+                  x:Name="AppointmentsComboBox">
+            <ComboBox.ItemTemplate>
+                <DataTemplate x:DataType="models:Appointments">
+                    <TextBlock Text="{Binding ID }" />
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+    <Button Grid.Row="2" Grid.Column="1" x:Name="Bt_add" Content="Добавить" VerticalContentAlignment="Center" Foreground="White" MinHeight="50" Margin="100,50,0,0" Click="Bt_add_OnClick" />    
+    </Grid>
+    
+</Window>

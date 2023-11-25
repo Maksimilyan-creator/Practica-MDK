@@ -1,0 +1,552 @@
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.deps.json
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.runtimeconfig.json
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.pdb
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Base.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Controls.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.DesignerSupport.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Dialogs.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Markup.Xaml.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Markup.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Metal.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.MicroCom.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.OpenGL.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Controls.ColorPicker.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Controls.DataGrid.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Desktop.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Diagnostics.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Fonts.Inter.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.FreeDesktop.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Native.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Remote.Protocol.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Skia.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Themes.Fluent.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Themes.Simple.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Win32.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.X11.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ColorTextBlock.Avalonia.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/DialogHost.Avalonia.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/HarfBuzzSharp.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Markdown.Avalonia.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/MsBox.Avalonia.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/MicroCom.Runtime.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/MySqlConnector.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/SkiaSharp.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/System.IO.Pipelines.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/System.Reactive.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Tmds.DBus.Protocol.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.csproj.AssemblyReference.cache
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/Resources.Inputs.cache
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/resources
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.GeneratedMSBuildEditorConfig.editorconfig
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.AssemblyInfoInputs.cache
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.AssemblyInfo.cs
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.csproj.CoreCompileInputs.cache
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/references
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/original.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/original.pdb
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/original.ref.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/refint/Practica_Lamaev.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.dll
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.pdb
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.csproj.CopyComplete
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.genruntimeconfig.cache
+/home/KHPK.RU/student/Рабочий стол/IS(PRO)-42/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/ref/Practica_Lamaev.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.csproj.AssemblyReference.cache
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/Resources.Inputs.cache
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/resources
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.GeneratedMSBuildEditorConfig.editorconfig
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.AssemblyInfoInputs.cache
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.AssemblyInfo.cs
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.csproj.CoreCompileInputs.cache
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/refint/Practica_Lamaev.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.pdb
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.exe
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.deps.json
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.runtimeconfig.json
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.pdb
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Base.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Controls.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.DesignerSupport.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Dialogs.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Markup.Xaml.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Markup.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Metal.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.MicroCom.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.OpenGL.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Controls.ColorPicker.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Controls.DataGrid.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Desktop.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Diagnostics.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Fonts.Inter.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.FreeDesktop.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Native.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Remote.Protocol.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Skia.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Themes.Fluent.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Themes.Simple.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Win32.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.X11.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ColorTextBlock.Avalonia.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/DialogHost.Avalonia.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/HarfBuzzSharp.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Markdown.Avalonia.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/MsBox.Avalonia.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/MicroCom.Runtime.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/MySqlConnector.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/SkiaSharp.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/System.Drawing.Common.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/System.IO.Pipelines.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/System.Reactive.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Tmds.DBus.Protocol.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-arm64/native/av_libglesv2.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x64/native/av_libglesv2.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x86/native/av_libglesv2.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/osx/native/libAvaloniaNative.dylib
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-arm/native/libSkiaSharp.so
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-arm64/native/libSkiaSharp.so
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-x64/native/libSkiaSharp.so
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/osx/native/libSkiaSharp.dylib
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-arm64/native/libSkiaSharp.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x64/native/libSkiaSharp.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x86/native/libSkiaSharp.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/references
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/original.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/original.pdb
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/original.ref.dll
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.csproj.CopyComplete
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.genruntimeconfig.cache
+G:/Программирование проекты/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/ref/Practica_Lamaev.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.exe
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.deps.json
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.runtimeconfig.json
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.pdb
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Base.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Controls.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.DesignerSupport.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Dialogs.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Markup.Xaml.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Markup.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Metal.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.MicroCom.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.OpenGL.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Controls.ColorPicker.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Controls.DataGrid.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Desktop.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Diagnostics.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Fonts.Inter.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.FreeDesktop.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Native.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Remote.Protocol.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Skia.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Themes.Fluent.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Themes.Simple.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Win32.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.X11.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ColorTextBlock.Avalonia.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/DialogHost.Avalonia.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/HarfBuzzSharp.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Markdown.Avalonia.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/MsBox.Avalonia.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/MicroCom.Runtime.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/MySqlConnector.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/SkiaSharp.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/System.Drawing.Common.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/System.IO.Pipelines.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/System.Reactive.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Tmds.DBus.Protocol.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-arm64/native/av_libglesv2.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x64/native/av_libglesv2.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x86/native/av_libglesv2.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/osx/native/libAvaloniaNative.dylib
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-arm/native/libSkiaSharp.so
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-arm64/native/libSkiaSharp.so
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-x64/native/libSkiaSharp.so
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/osx/native/libSkiaSharp.dylib
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-arm64/native/libSkiaSharp.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x64/native/libSkiaSharp.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x86/native/libSkiaSharp.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.csproj.AssemblyReference.cache
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/Resources.Inputs.cache
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/resources
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.GeneratedMSBuildEditorConfig.editorconfig
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.AssemblyInfoInputs.cache
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.AssemblyInfo.cs
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.csproj.CoreCompileInputs.cache
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/references
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/original.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/original.pdb
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/original.ref.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/refint/Practica_Lamaev.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.dll
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.pdb
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.csproj.CopyComplete
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.genruntimeconfig.cache
+S:/Проекты_программирования/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/ref/Practica_Lamaev.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.deps.json
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.runtimeconfig.json
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Practica_Lamaev.pdb
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Base.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Controls.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.DesignerSupport.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Dialogs.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Markup.Xaml.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Markup.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Metal.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.MicroCom.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.OpenGL.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Controls.ColorPicker.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Controls.DataGrid.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Desktop.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Diagnostics.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Fonts.Inter.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.FreeDesktop.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Native.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Remote.Protocol.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Skia.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Themes.Fluent.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Themes.Simple.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.Win32.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Avalonia.X11.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ColorTextBlock.Avalonia.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/DialogHost.Avalonia.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/HarfBuzzSharp.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Markdown.Avalonia.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/MsBox.Avalonia.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/MicroCom.Runtime.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/MySqlConnector.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/SkiaSharp.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/System.IO.Pipelines.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/System.Reactive.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/Tmds.DBus.Protocol.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.csproj.AssemblyReference.cache
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/Resources.Inputs.cache
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/resources
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.AssemblyInfoInputs.cache
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.AssemblyInfo.cs
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.csproj.CoreCompileInputs.cache
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/references
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/original.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/original.pdb
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Avalonia/original.ref.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/refint/Practica_Lamaev.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.dll
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.pdb
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.csproj.CopyComplete
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/Practica_Lamaev.genruntimeconfig.cache
+/home/student/Рабочий стол/Practica_Lamaev/Practica_Lamaev/obj/Debug/net7.0/ref/Practica_Lamaev.dll

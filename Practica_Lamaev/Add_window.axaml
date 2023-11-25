@@ -1,0 +1,89 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:models="clr-namespace:Practica_Lamaev.Models"
+        mc:Ignorable="d" Width="520" Height="430" Background = "DarkSlateGray"
+        x:Class="Practica_Lamaev.Add_window"
+        Title="Добавление записи">
+        <Grid ColumnDefinitions="240,240" RowDefinitions="45,45,45,45,45,45,45,45,45" Margin="25" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                                <TextBlock Grid.Column="0" Grid.Row="0" Text="Выбирете фамилию пациента:"  Foreground="White"  />
+                                <ComboBox Grid.Column="1"
+                                          Grid.Row="0"
+                                          MinWidth="200"
+                                          x:Name="PatientsComboBox">
+                                        <ComboBox.ItemTemplate>
+                                                <DataTemplate x:DataType="models:Patients">
+                                                        <TextBlock Text="{Binding LastName }" />
+                                                </DataTemplate>
+                                        </ComboBox.ItemTemplate>
+                                </ComboBox>
+                                <TextBlock Grid.Column="0" Grid.Row="1" Text="Выбирете фамилию доктора:"  Foreground="White"  />
+                                <ComboBox Grid.Column="1"
+                                          Grid.Row="1"
+                                          MinWidth="200"
+                                          x:Name="DoctorsComboBox">
+                                        <ComboBox.ItemTemplate>
+                                                <DataTemplate x:DataType="models:Doctors">
+                                                        <TextBlock Text="{Binding LastName_ }" />
+                                                </DataTemplate>
+                                        </ComboBox.ItemTemplate>
+                                </ComboBox>
+                                <TextBlock Grid.Column="0" Grid.Row="2" Text="Выбирете статус оплаты:"  Foreground="White"  />
+                                <CheckBox Grid.Column="1"
+                                          Grid.Row="2"
+                                          x:Name="CheckBox_status"
+                                          Margin="0,-20,0,0"/>
+                                <TextBlock Grid.Column="0" Grid.Row="3" Text="Выбирете диагноз:"  Foreground="White"  />
+                                <ComboBox Grid.Column="1"
+                                          Grid.Row="3"
+                                          MinWidth="200"
+                                          x:Name="DiagnosisComboBox">
+                                        <ComboBox.ItemTemplate>
+                                                <DataTemplate x:DataType="models:Diagnosis">
+                                                        <TextBlock Text="{Binding Name_Diagnosis }" />
+                                                </DataTemplate>
+                                        </ComboBox.ItemTemplate>
+                                </ComboBox>
+                                <TextBlock Grid.Column="0"
+                                           Grid.Row="5"
+                                           Text="Введите способ лечения:"
+                                           Foreground="White"/>
+                                <TextBox Grid.Column="1"
+                                         Grid.Row="5"
+                                         MaxHeight="30"
+                                         MaxWidth="200"
+                                         Margin="-40,-5,0,0"
+                                         x:DataType="models:Appointments"
+                                         x:Name="TreatmeBox"
+                                         Text="{Binding Treatmen}"
+                                         HorizontalContentAlignment="Left"/>
+                                <TextBlock Grid.Column="0" Grid.Row="4" Text="Процент востановления:" Foreground="White"  />
+                                <ComboBox Grid.Column="1"
+                                          Grid.Row="4"
+                                          MinWidth="200"
+                                          x:Name="RecoveryComboBox">
+                                        <ComboBox.ItemTemplate>
+                                                <DataTemplate x:DataType="models:Recovery">
+                                                        <TextBlock Text="{Binding Recovery_indicators }" />
+                                                </DataTemplate>
+                                        </ComboBox.ItemTemplate>
+                                </ComboBox>
+                                <TextBlock Grid.Column="0"
+                                           Grid.Row="6"
+                                           Text="Укажите дату приема:"
+                                           Foreground="White"/>
+                                <DatePicker Grid.Row="6"
+                                            Grid.Column="1"
+                                            Name="DatePicker"
+                                            MaxHeight="50"
+                                            MinWidth="10"
+                                            />
+                                <TextBlock Grid.Column="0"
+                                           Grid.Row="7"
+                                           Text="Посещение (True,False):"
+                                           Foreground="White"/>
+                                <CheckBox Grid.Row="7" Grid.Column="1" x:Name="CheckBox_attendance" Margin="0,-25,0,0" /> 
+                                <Button Grid.Column="1" Grid.Row="8" MinHeight="50" VerticalContentAlignment="Center" HorizontalAlignment="Right" x:Name="Add_Appointments" Content="Добавить запись" Margin="0,-30,50,0" Foreground="White" Click="Add_Appointments_OnClick"  />
+                                </Grid>
+</Window>

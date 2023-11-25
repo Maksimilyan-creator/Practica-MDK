@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Practica_Lamaev/Add_med_card.axaml" value="Practica_Lamaev/Practica_Lamaev.csproj" />
+        <entry key="Practica_Lamaev/Add_window.axaml" value="Practica_Lamaev/Practica_Lamaev.csproj" />
+        <entry key="Practica_Lamaev/App.axaml" value="Practica_Lamaev/Practica_Lamaev.csproj" />
+        <entry key="Practica_Lamaev/Appointmentss_window.axaml" value="Practica_Lamaev/Practica_Lamaev.csproj" />
+        <entry key="Practica_Lamaev/Authorization.axaml" value="Practica_Lamaev/Practica_Lamaev.csproj" />
+        <entry key="Practica_Lamaev/Avthorization.axaml" value="Practica_Lamaev/Practica_Lamaev.csproj" />
+        <entry key="Practica_Lamaev/MainWindow.axaml" value="Practica_Lamaev/Practica_Lamaev.csproj" />
+        <entry key="Practica_Lamaev/window.axaml" value="Practica_Lamaev/Practica_Lamaev.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
